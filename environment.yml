@@ -1,0 +1,34 @@
+name: work
+channels:
+  - conda-forge
+
+dependencies:
+  - beautifulsoup4
+  - cartopy
+  - contextily
+  - dill
+  - folium
+  - geopandas
+  - jupyterlab
+  - mapclassify
+  - osmnx=1.0.1
+  - pandana
+  - pandas
+  - pysal
+  - python
+  - rasterio
+  - rtree
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - xlrd
+  # possible
+  - bokeh
+  - datashader
+  - holoviews
+  # keras
+  # nltk
+  # psycopg2
+  # pydeck
+  # urbanaccess
